@@ -1,5 +1,11 @@
 # Burnout Radar (MVP)
 
+## Demo:
+https://github.com/user-attachments/assets/9d41a7a7-873b-4c45-9a60-871e78e44b8f
+
+
+
+
 Burnout Radar estimates burnout risk from lightweight work signals and explains what drove the score.
 
 Product message: **"We don't treat — we warn early."**
