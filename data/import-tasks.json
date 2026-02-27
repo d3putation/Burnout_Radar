@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2026-02-16",
+    "completed": 6,
+    "created": 8,
+    "overdue": 2,
+    "avgCycleHours": 28
+  },
+  {
+    "date": "2026-02-17",
+    "completed": 5,
+    "created": 7,
+    "overdue": 3,
+    "avgCycleHours": 30
+  },
+  {
+    "date": "2026-02-18",
+    "completed": 7,
+    "created": 6,
+    "overdue": 2,
+    "avgCycleHours": 24
+  }
+]
